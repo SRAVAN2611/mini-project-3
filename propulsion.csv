@@ -1,0 +1,6 @@
+engine_id,fuel_type,thrust_output,efficiency_rating,heat_dissipation,status
+ENG-A1,Ion,0.5,0.85,300,Operational
+ENG-B2,Plasma,2.5,0.75,800,Operational
+ENG-C3,Antimatter,50.0,0.95,5000,Experimental
+ENG-D4,Chemical,15.0,0.40,1200,Obsolete
+ENG-E5,Warp,1000.0,0.99,100,Theoretical

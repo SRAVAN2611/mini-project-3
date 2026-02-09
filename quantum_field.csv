@@ -1,0 +1,6 @@
+simulation_id,field_strength,coherence_time,qubits_used,entanglement_fidelity,outcome
+QSIM-001,0.5,100,5,0.99,Stable
+QSIM-002,1.2,85,10,0.95,Stable
+QSIM-003,3.5,45,20,0.88,Unstable
+QSIM-004,5.0,20,50,0.70,Critical
+QSIM-005,0.8,95,8,0.98,Stable
